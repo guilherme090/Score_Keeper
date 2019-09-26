@@ -1,0 +1,33 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+        .idea/
+        app/.gitignore
+        app/build.gradle
+        app/proguard-rules.pro
+        app/src/androidTest/
+        app/src/main/AndroidManifest.xml
+        app/src/main/res/drawable-v24/
+        app/src/main/res/drawable/
+        app/src/main/res/mipmap-anydpi-v26/
+        app/src/main/res/mipmap-hdpi/
+        app/src/main/res/mipmap-mdpi/
+        app/src/main/res/mipmap-xhdpi/
+        app/src/main/res/mipmap-xxhdpi/
+        app/src/main/res/mipmap-xxxhdpi/
+        app/src/main/res/raw/
+        app/src/main/res/values/
+        app/src/test/
+        build.gradle
+        gradle.properties
+        gradle/
+        gradlew
+        gradlew.bat
+        settings.gradle
